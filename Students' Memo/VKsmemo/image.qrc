@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.jpg</file>
+        <file>image/3.1 设置.png</file>
+        <file>image/qipao.jpg</file>
+        <file>image/Vkun_S.jpg</file>
+        <file>image/Vkun_Sqt.jpg</file>
+        <file>image/whuhhxk.jpg</file>
+        <file>image/提醒.png</file>
+        <file>image/退出.png</file>
+        <file>image/我，写作业.png</file>
+        <file>image/我的课程 (1).png</file>
+    </qresource>
+</RCC>
